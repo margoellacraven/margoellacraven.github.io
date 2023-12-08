@@ -39,10 +39,7 @@ figure figcaption {
     font-size: 16px;
     font-style: italic;
 }
-#documentary{
-    width: 800px;
-    height: 450px;
-}
+
 #clear1{
     width: 30% 
     
@@ -61,7 +58,7 @@ p {
     text-decoration-style: double;
 }
 
-video {
+#documentary {
     border: 20px ridge #7f181b;
 }
 
